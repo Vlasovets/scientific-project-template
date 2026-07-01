@@ -1,4 +1,4 @@
-# Project Title
+# Bari's project
 
 ## Description
 What this project does and why.
