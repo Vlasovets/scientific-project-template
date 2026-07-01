@@ -1,7 +1,0 @@
-data/
-  raw/          ← never commit raw data
-  processed/
-results/
-scripts/
-envs/
-logs/
